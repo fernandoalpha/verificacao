@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font: normal 12pt Arial;
+    color: white;
+}
+
+#conteiner {
+    text-align: center;
+}
+
+#imagem {
+    border-image: space;
+    border-color: white;
+}
